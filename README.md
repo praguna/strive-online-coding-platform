@@ -21,7 +21,7 @@ Email : abcd@gmail.com     password : 1234567
 #### Demo Admin User:   
 Email : strivebms@gmail.com  password : strivebmsproject
 
-##### Strive - Online Coding Application Template
+##### Strive - Online Coding Application
 ![Logo](images/opening_image.jpg)
 
 
