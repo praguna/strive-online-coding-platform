@@ -1,0 +1,9 @@
+[submodule "strive-client"]
+	path = strive-client
+	url = https://github.com/praguna/strive-client
+[submodule "strive-admin"]
+	path = strive-admin
+	url = https://github.com/praguna/strive-admin
+[submodule "strive-express-server"]
+	path = strive-express-server
+	url = https://github.com/praguna/strive-express-server
