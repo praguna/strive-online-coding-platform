@@ -16,11 +16,12 @@ Strive is a simple open source implementaion of online coding platform. It can s
 Strive-Client :  http://strive-application.s3-website.ap-south-1.amazonaws.com
 Strive-Admin :  http://strive-admin.s3-website.ap-south-1.amazonaws.com
 
-#### Sample Client User : 
+#### Demo Client User : 
 Email : abcd@gmail.com     password : 1234567
-#### Sample Admin User:   
+#### Demo Admin User:   
 Email : strivebms@gmail.com  password : strivebmsproject
 
+##### Strive - Online Coding Application Template
 ![Logo](images/opening_image.jpg)
 
 
