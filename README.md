@@ -12,6 +12,10 @@ Strive is a simple open source implementaion of online coding platform. It can s
 * JDoodle : It is a platform that provides rest-Api support for execution of programs.
 * MongoDB Atlas : It is a cloud database service
 
+##### Data Flow
+![data](images/data_flow.JPG)
+
+
 * The applications are currently live at :
 Strive-Client :  http://strive-application.s3-website.ap-south-1.amazonaws.com
 Strive-Admin :  http://strive-admin.s3-website.ap-south-1.amazonaws.com
@@ -23,5 +27,7 @@ Email : strivebms@gmail.com  password : strivebmsproject
 
 ##### Strive - Online Coding Application
 ![Logo](images/opening_image.jpg)
+
+
 
 
