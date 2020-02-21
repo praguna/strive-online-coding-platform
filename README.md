@@ -15,16 +15,6 @@ Strive is a simple open source implementaion of online coding platform. It can s
 ##### Data Flow
 ![data](images/data_flow.JPG)
 
-
-* The applications are currently live at :
-Strive-Client :  http://strive-application.s3-website.ap-south-1.amazonaws.com
-Strive-Admin :  http://strive-admin.s3-website.ap-south-1.amazonaws.com
-
-#### Demo Client User : 
-Email : abcd@gmail.com     password : 1234567
-#### Demo Admin User:   
-Email : strivebms@gmail.com  password : strivebmsproject
-
 ##### Strive - Online Coding Application
 ![Logo](images/opening_image.jpg)
 
